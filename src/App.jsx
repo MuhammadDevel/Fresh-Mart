@@ -36,7 +36,7 @@ const App = () => {
             <div className='overflow-x-hidden'>
                 <Navbar HandlePopup={HandlePopup} />
                 <Routes>
-                    <Route path="/" element={
+                    <Route path="/Fresh-Mart" element={
                         <>
                             <Hero />
                             <Banner />
