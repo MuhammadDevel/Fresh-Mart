@@ -84,7 +84,7 @@ const About = () => {
                 <div className="grid md:grid-cols-3 gap-10">
                     <div className="text-center">
                         <img
-                            src="/chef.jpg"
+                            src="/professionals/chef.jpg"
                             alt="Team Member"
                             className="w-40 h-40 mx-auto rounded-full shadow-md"
                         />
@@ -93,7 +93,7 @@ const About = () => {
                     </div>
                     <div className="text-center">
                         <img
-                            src="/nutritionist.jpg"
+                            src="/professionals/nutritionist.jpg"
                             alt="Team Member"
                             className="w-40 h-40 mx-auto rounded-full shadow-md"
                         />
@@ -102,7 +102,7 @@ const About = () => {
                     </div>
                     <div className="text-center">
                         <img
-                            src="/manager.jpeg"
+                            src="/professionals/manager.jpeg"
                             alt="Team Member"
                             className="w-40 h-40 mx-auto rounded-full shadow-md"
                         />
