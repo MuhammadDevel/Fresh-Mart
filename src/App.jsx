@@ -4,11 +4,11 @@ import Navbar from "./components/Navbar/Navbar.jsx";
 import Banner from "./components/Banner/Banner.jsx";
 import Hero from './components/Hero/Hero.jsx';
 import WhyChoose from "./components/WhyChoose/WhyChoose.jsx";
-import About from "./pages/About.jsx"; // About Page
-import Contact from "./pages/Contact.jsx"; // Contact Page
-import Vegetables from "./pages/Vegetables.jsx"; // New Vegetables Page
-import Fruits from "./pages/Fruits.jsx"; // New Fruits Page
-import Grains from "./pages/Grains.jsx"; // New Grains Page
+import About from "./pages/about.jsx"; // About Page
+import Contact from "./pages/contact.jsx"; // Contact Page
+import Vegetables from "./pages/vegetables.jsx"; // New Vegetables Page
+import Fruits from "./pages/fruits.jsx"; // New Fruits Page
+import Grains from "./pages/grains.jsx"; // New Grains Page
 import Footer from "./components/Footer/Footer.jsx";
 import Popup from "./components/Popup/Popup.jsx";
 import MealPlan from "./pages/MealPlan.jsx";
