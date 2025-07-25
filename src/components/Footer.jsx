@@ -16,9 +16,11 @@ const Footer = () => {
                             <IoLocationSharp className="text-5xl" />
                         </div>
                         <p>
-                            #92, 3rd Main, Virgo Nagar, Post,
-                            <br /> Seegehalli, Bengaluru, Karnataka 560049
+                            #92, 3rd Main Street,Virgo District,<br />
+                            East Side,Brooklyn,<br />
+                            NY 11208 United States
                         </p>
+
                     </div>
 
                     {/* Email section */}
@@ -38,15 +40,15 @@ const Footer = () => {
                             <MdEmail className="text-5xl" />
                         </div>
                         <div>
-                            <p>+91 9643224232 - Sales and Services</p>
-                            <p>+91 9623423436 - Hiring Queries</p>
-                            <p>+91 2345232445 - Whatsapp</p>
+                            <p>+1 964 322-4232 - Sales and Services</p>
+                            <p>+1 962 342-3436 - Hiring Queries</p>
+                            <p>+1 234 523-2445 - Whatsapp</p>
                         </div>
                     </div>
                 </div>
                 {/* copyright section */}
                 <div className="flex justify-between p-4 items-center">
-                    <p>© 2022 TCJ. All rights reserved</p>
+                    <p>© 2025 Fresh Mart. All rights reserved</p>
                     <div className="flex items-center gap-6">
                         <a href="#">Privacy Policy</a>
                         <a href="#">Terms & Conditions</a>
