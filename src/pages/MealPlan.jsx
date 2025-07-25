@@ -1,4 +1,4 @@
-import PrimaryButton from "../components/Shared/PrimaryButton";
+import PrimaryButton from "../components/PrimaryButton";
 
 const MealPlan = () => {
   const plans = [

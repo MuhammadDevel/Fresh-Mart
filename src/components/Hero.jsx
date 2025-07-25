@@ -1,6 +1,6 @@
 // import React from 'react'
 
-import PrimaryButton from "../Shared/PrimaryButton"
+import PrimaryButton from "../components/PrimaryButton"
 
 const BgStyle = {
     backgroundImage: "url(/heroBg.png)",

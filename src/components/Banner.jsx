@@ -1,4 +1,4 @@
-import PrimaryButton from "../Shared/PrimaryButton"
+import PrimaryButton from "../components/PrimaryButton"
 
 const Banner = () => {
     return <>

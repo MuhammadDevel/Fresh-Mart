@@ -1,4 +1,3 @@
-import React from 'react';
 
 const grains = [
     { id: 1, name: 'Rice', price: '$5.99', image: '/grains/rice.jpg' },
